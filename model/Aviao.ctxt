@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Aviao
+comment1.params=
+comment1.target=Aviao()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=modelo\ fileira\ assento
+comment2.target=Aviao(java.lang.String,\ int,\ int)
+comment3.params=fileira\ assento
+comment3.target=boolean\ verificaPoltrona(int,\ int)
+comment4.params=fileira\ assento
+comment4.target=Passageiro\ getPassageiro(int,\ int)
+comment5.params=fileira\ assento\ passageiro
+comment5.target=void\ setPassageiro(int,\ int,\ Passageiro)
+comment6.params=
+comment6.target=int\ getFileira()
+comment7.params=fileira
+comment7.target=void\ setFileira(int)
+comment8.params=
+comment8.target=int\ getAssentos()
+comment9.params=assentos
+comment9.target=void\ setAssentos(int)
+numComments=11

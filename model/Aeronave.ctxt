@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Aeronave
+comment1.params=
+comment1.target=Aeronave()
+comment2.params=modelo
+comment2.target=Aeronave(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getModelo()
+comment4.params=modelo
+comment4.target=void\ setModelo(java.lang.String)
+numComments=5

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Voo
+comment1.params=
+comment1.target=Voo()
+comment10.params=
+comment10.target=Aviao\ getAeronave()
+comment11.params=aviao
+comment11.target=void\ setAeronave(Aviao)
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=nroVoo\ data\ hora
+comment2.target=Voo(int,\ java.lang.String,\ java.lang.String)
+comment3.params=aeronave\ nroVoo\ data\ hora
+comment3.target=Voo(Aviao,\ int,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=int\ getNroVoo()
+comment5.params=nroVoo
+comment5.target=void\ setNroVoo(int)
+comment6.params=
+comment6.target=java.lang.String\ getData()
+comment7.params=data
+comment7.target=void\ setData(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getHora()
+comment9.params=hora
+comment9.target=void\ setHora(java.lang.String)
+numComments=13
